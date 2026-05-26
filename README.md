@@ -1,6 +1,5 @@
 # Codex Responses API 代理服务
 
-***
 
 ## 背景
 
@@ -253,5 +252,5 @@ auth.json
 
 MIT License — 自由使用和修改。
 
-***
+
 
